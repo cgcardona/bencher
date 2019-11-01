@@ -53,4 +53,4 @@ open target/criterion/report/index.html
 
 ## Benchmarks
 
-All the actions is happening in [./benches/my_benchmark.rs]
+All the actions is happening in [./benches/my_benchmark.rs](./benches/my_benchmark.rs)
