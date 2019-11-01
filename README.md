@@ -50,3 +50,7 @@ open target/criterion/report/index.html
 
 ![Chart 1](https://i.imgur.com/8PbDmDi.png "Chart 1")
 ![Chart 2](https://i.imgur.com/kSTHYJq.png "Chart 2")
+
+## Benchmarks
+
+All the actions is happening in [./benches/my_benchmark.rs]
